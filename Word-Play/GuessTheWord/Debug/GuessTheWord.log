@@ -1,0 +1,8 @@
+﻿  FGuessTheWord.cpp
+c:\users\kapil bedekar\source\repos\guesstheword\guesstheword\fguesstheword.cpp(69): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kapil bedekar\source\repos\guesstheword\guesstheword\fguesstheword.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\kapil bedekar\source\repos\guesstheword\guesstheword\fguesstheword.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\kapil bedekar\source\repos\guesstheword\guesstheword\fguesstheword.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  GuessTheWord.cpp
+  Generating Code...
+  GuessTheWord.vcxproj -> C:\Users\Kapil Bedekar\source\repos\GuessTheWord\Debug\GuessTheWord.exe
